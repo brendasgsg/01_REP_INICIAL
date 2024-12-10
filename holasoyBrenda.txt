@@ -1,2 +1,3 @@
 Hola, soy Brenda
 ¿Qué tal?
+estamos practicando git
